@@ -30,3 +30,11 @@ main {
     transform: translate(-50%, -50%);
     background: url(../imagens/frame-iphone.png) no-repeat;
 }
+
+#tela {
+    position: absolute;
+    width: 269px;
+    height: 472px;
+    top: 80px;
+    left: 21px;
+}
